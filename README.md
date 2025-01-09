@@ -13,3 +13,6 @@ O projeto **Galeria de Fotos** é uma aplicação de gerenciamento de imagens de
 
 - **React**: Biblioteca para construir interfaces de usuário interativas.
 - **CSS**: Para estilização e responsividade da aplicação.
+
+## Contato
+Se tiver alguma dúvida, sinta-se à vontade para entrar em contato através do e-mail: eduardapernambuco@hotmail.com
